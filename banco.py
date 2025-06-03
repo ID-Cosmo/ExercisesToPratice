@@ -1,19 +1,15 @@
 class ContaBancaria:
     def __init__(self, saldo_bancario):
-        self.__saldo_bancario = saldo_bancario
-    def depositar(self,valor_deposito):
+        self.__saldo_bancario = saldo_bancario #atributo protegido
+    def depositar(self,valor_deposito): #metodo
         self.__saldo_bancario += valor_deposito
     def sacar(self,valor_sacar):
         self.__saldo_bancario -= valor_sacar
 
-    def mostrar_saldo(self):
+    def mostrar_saldo(self): #metodo fora da classe, sendo publico
         return f"Saldo atual: {self.__saldo_bancario}"
     
-ContaBancaria1 = ContaBancaria(1500)
-
-# ContaBancaria1.depositar(100)
-# ContaBancaria1.sacar(200)
-# print(ContaBancaria1.mostrar_saldo())
+ContaBancaria1 = ContaBancaria(1500) #objeto
 
 opcao = input("Selecione uma das opções: \n1 - Mostrar saldo  \n2 - Sacar  \n3 - Depositar\n")
 
