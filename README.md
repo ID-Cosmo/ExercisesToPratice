@@ -1,13 +1,13 @@
-# Exercises practiced, always to advanced.
+# Exercises practiced, always for the advanced.
 
-### Vou listar a ideia do codigo e alguns recursos integrados.
+### I'll list the code idea and some built-in features.
 
-#### Exercicio 1 - Circulo:
-  - Ideia: um programa que calcula o raio de um circulo, baseado nas informações fornecidas pelo usuario, e após o calculo, irá exibir um grafico exempliplificando.
-#### Recursos:
-  - Loop de retorno para o caso de realizar mais de um codigo
-  - Validação de erros (numeros negativos, letras ou atalhos do teclado)
-  - Valores definidos com um minimo e maximo para controle
+#### Exercise 1 - Circle:
+- Idea: A program that calculates the radius of a circle based on user-provided information. After the calculation, it will display a graphical example.
+#### Features:
+- Loopback for executing more than one code
+- Error validation (negative numbers, letters, or keyboard shortcuts)
+- Defined values ​​with a minimum and maximum for control
 
 
 
