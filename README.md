@@ -1,11 +1,11 @@
-# Exercises practiced, from basic to advanced.
+# Exercises practiced, always for the advanced.
 
-## First.
+### I'll list the code idea and some built-in features.
 
-- This exercise exemplifies the withdrawal system and deposit of bank balance.
-- The concepts of object-oriented programming language (OOP) were used.
+#### Exercise 1 - Circle:
+- Idea: A program that calculates the radius of a circle based on user-provided information. After the calculation, it will display a graphical example.
 
-## Second
+ ---
 
 
-## Third
+
