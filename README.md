@@ -7,5 +7,8 @@
 
  ---
 
+### Exercise 2 - Money exchange
+- Idea: A program that calculates the price of the product, quantity purchased and the amount of cash received from the customer.
 
+---
 
