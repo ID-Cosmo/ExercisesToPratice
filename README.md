@@ -12,3 +12,5 @@
 
 ---
 
+### Exercise 2 - Land
+- Idea: This exercise is basic, so much so that I've included two examples: a more advanced code with data input processing and a more common one without any rules.
