@@ -7,10 +7,10 @@
 
  ---
 
-### Exercise 2 - Money exchange
+#### Exercise 2 - Money exchange
 - Idea: A program that calculates the price of the product, quantity purchased and the amount of cash received from the customer.
 
 ---
 
-### Exercise 2 - Land
+#### Exercise 3 - Land
 - Idea: This exercise is basic, so much so that I've included two examples: a more advanced code with data input processing and a more common one without any rules.
